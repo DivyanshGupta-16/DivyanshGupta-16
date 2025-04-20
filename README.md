@@ -6,7 +6,7 @@
 - I'm a lifelong learner, an open-source enthusiast, and always excited to collaborate and build impactful projects!
 
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Artificial Intelligence/Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me divyanshguptacs@gmail.com
 - 😄 Pronouns: he/him
