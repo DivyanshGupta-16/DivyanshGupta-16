@@ -8,6 +8,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Artificial Intelligence/Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML Projects
-- 📫 How to reach me divyanshguptacs@gmail.com
+- 📫 How to reach me divyanshguptacs@gmail.com, LinkedIn: https://www.linkedin.com/in/divyansh-gupta-cse/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 🌍 I believe technology can make the world a better place, one project at a time.
+  
